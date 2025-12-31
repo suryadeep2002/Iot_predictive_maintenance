@@ -20,6 +20,7 @@ main.py - This contains the code for the deployment of the flask for real time A
 
 app.py - This contains the code for the deployment of the streamlit app.
 
+streamlit app - https://iot-predictive.streamlit.app/
 
 Workflow:
 

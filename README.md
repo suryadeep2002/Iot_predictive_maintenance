@@ -14,9 +14,15 @@ Includes features used to analyze performance and predict maintenance requiremen
 
 Project Structure:
 
-factury_guard.ipynb - This notebook deals with EDA, Data Preprocessing, Feature Engineering, Model Evaluation and its training, and saving the necessary files, encoders and trained models.
-main.py - This contains the code for the deployment of flask for real time API.
-app.py - This contains the code for the deployment of the streamlit app.
+Dashboard
+
+Built using Streamlit
+
+Displays key insights from EDA
+
+Allows users to view predictions in an interactive way
+
+Helps visualize maintenance trends and risk
 
 Workflow:
 

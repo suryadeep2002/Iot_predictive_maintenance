@@ -7,3 +7,5 @@ xgboost
 streamlit
 optuna
 shap
+flask
+plotly

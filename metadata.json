@@ -1,0 +1,29 @@
+{
+    "original_shape": [
+        500,
+        5
+    ],
+    "final_shape": [
+        488,
+        142
+    ],
+    "total_features": 142,
+    "sensor_columns": [
+        "Arm_Sensor",
+        "Temperature_Sensor",
+        "Vibration_Sensor",
+        "Pressure_Sensor"
+    ],
+    "windows_used": [
+        1,
+        6,
+        12
+    ],
+    "lags_used": [
+        1,
+        2,
+        3,
+        6,
+        12
+    ]
+}
